@@ -108,7 +108,7 @@ label= "NAVI"                              ;
 
                 &kp N1      &kp N2      &kp N3      &kp N4      &kp N5          &kp N6      &kp N7      &kp N8      &kp N9      &kp N0
                 &kp UP      &trans      &trans      &kp LSHIFT  &kp K_CMENU     &kp LEFT    &kp DOWN    &kp UP      &kp RIGHT   &kp SQT
-&kp NON_US_HASH &kp DOWN    &trans      &trans      &mkp MCLK   &kp LPAR        &kp RPAR    &trans      &trans      &kp EQUAL   &kp MINUS    &kp NON_US_BSLH     
+&kp NON_US_HASH &kp DOWN    &trans      &trans      &mkp MCLK   &kp LBKT        &kp RBKT    &trans      &trans      &kp EQUAL   &kp MINUS    &kp NON_US_BSLH     
                                         &trans      &trans      &trans          &mo ADJ     &trans      &trans      
                         >;
                 };
